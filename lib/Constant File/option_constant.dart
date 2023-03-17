@@ -35,7 +35,7 @@ List<String> employmentList = [
   "Remote",
   "Office",
   "Full-Time",
-  "Patr-Time",
+  "Part-Time",
 ];
 List<String>? selectedEmploymentList = [];
 
